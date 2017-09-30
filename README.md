@@ -5,6 +5,6 @@ Cosolidating resources to finish the product. Feel free to use the project.
 To run it Just open the UltimateBusinessMachine.jar
 If that doesnt work try the terminal:
 
-'''sh
+```sh
 java -jar UltimateBusinessMachine.jar
-'''
+```
